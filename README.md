@@ -1,2 +1,2 @@
-# AoC
-My solutions for all of the Advent of Code puzzles in JS.
+# Advent of Code
+Solutions for the Advent of Code puzzles in JS.
