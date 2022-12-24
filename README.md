@@ -1,2 +1,11 @@
 # Advent of Code
-Solutions for the Advent of Code puzzles in NodeJS.
+A repository containing solutions to the Advent of Code puzzles in various languages.
+## Years Completed
+[] 2015
+[] 2016
+[] 2017
+[] 2018
+[] 2019
+[] 2020
+[] 2021
+[] 2022
