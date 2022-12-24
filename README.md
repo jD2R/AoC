@@ -1,6 +1,6 @@
 # Advent of Code
 A repository containing solutions to the Advent of Code puzzles in various languages.
-## years Completed
+## years completed
  - [ ] 2015
  - [ ] 2016
  - [ ] 2017
