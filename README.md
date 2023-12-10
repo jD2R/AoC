@@ -1,2 +1,2 @@
 # Advent of Code
-A repository containing solutions to the Advent of Code puzzles in Node.js.
+Horribly inefficient solutions to Advent of Code puzzles in Node.
